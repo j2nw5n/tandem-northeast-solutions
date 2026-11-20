@@ -1,2 +1,1 @@
-# tandem-northeast-solutions
-Tandem Northeast Solutions
+Copyright (c) 2026 Tandem Northeast Solutions. All rights reserved.
